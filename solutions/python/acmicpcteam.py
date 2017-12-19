@@ -1,8 +1,6 @@
 # Solution for the problem "ACM ICPC Team"
 # https://www.hackerrank.com/challenges/acm-icpc-team/problem
 
-# TODO: This solution is still work in progress
-
 # Count of the number of people and topics
 peopleCount, topicCount = map(int, input().strip().split(' '))
 
@@ -24,7 +22,7 @@ maxKnowledgeCount = 0
 
 # We need to do bitwise or on every combination to get the topic each two person team can know
 for personIndex1 in range(0, peopleCount - 1):
-    for personIndex2 in range(1, peopleCount):
+    for personIndex2 in range(personIndex1 + 1, peopleCount):
         unionKnowledge = personKnowledge[personIndex1] | personKnowledge[personIndex2]
 
         # Counting number of ones to get current team's knowledge
