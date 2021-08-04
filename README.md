@@ -18,3 +18,21 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 8 | [Electronics Shop](./solutions/python/electronics-shop.py) | [Practice > Algorithms > Implementation > Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) |
 | 9 | [Equalize the Array](./solutions/python/equalize-the-array.py) | [Practice > Algorithms > Implementation > Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) |
 | 10 | [Halloween Sale](./solutions/python/halloween-sale.py) | [Practice > Algorithms > Implementation > Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) |
+| 11 | [The Hurdle Race](./solutions/python/the-hurdle-race.py) | [Practice > Algorithms > Implementation > The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) |
+| 12 | [Jesse and Cookies](./solutions/python/jesse-and-cookies.py) | [Practice > Data Structures > Heap > Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem) |
+| 13 | [Luck Balance](./solutions/python/luck-balance.py) | [Practice > Algorithms > Greedy > Luck Balance](https://www.hackerrank.com/challenges/luck-balance/) |
+| 14 | [Minimum Average Waiting Time](./solutions/python/minimum-average-waiting-time.py) | [Practice > Data Structures > Heap > Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) |
+| 15 | [Minimum Absolute Difference in an Array](./solutions/python/minimum-absolute-difference-in-an-array.py) | [Practice > Algorithms > Greedy > Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/) |
+| 16 | [Number Groups](./solutions/python/number-groups.py) | [Practice > Mathematics > Algebra > Number Groups](https://www.hackerrank.com/challenges/number-groups/problem) |
+| 17 | [Hash Tables: Ransom Note](./solutions/python/ransom-note.py) | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
+| 18 | [The Salesman](./solutions/python/the-salesman.py) | [All Contests > World CodeSprint 12 > The Salesman](https://www.hackerrank.com/contests/world-codesprint-12/challenges/the-salesman/problem) |
+| 19 | [Word Order](./solutions/python/word-order.py) | [Practice > Python > Collections > Word Order](https://www.hackerrank.com/challenges/word-order/problem) |
+<!---
+| N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
+--->
+
+### IN PROGRESS
+
+| No. | Name | HackerRank Question | 
+| --- | ---- | ------------------- |
+| 1 | [New Year Chaos](./solutions/python/new-year-chaos.py) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
