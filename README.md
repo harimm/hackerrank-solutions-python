@@ -1,3 +1,6 @@
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+
 # HackerRank Solutions in Python
 Repository for storing solutions submitted for hackerrank programming problems
 
