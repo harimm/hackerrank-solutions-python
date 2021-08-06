@@ -29,6 +29,7 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 19 | [Word Order](./solutions/python/word-order.py) | [Practice > Python > Collections > Word Order](https://www.hackerrank.com/challenges/word-order/problem) |
 | 20 | [Append and Delete](./solutions/python/append-and-delete.py) | [Practice > Algorithms > Implementation > Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) |
 | 21 | [Modified Kaprekar Numbers](./solutions/python/modified-kaprekar-numbers.py) | [Practice > Algorithms > Implementation > Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) |
+| 22 | [Minimum Distances](./solutions/python/minimum-distances.py) | [Practice > Algorithms > Implementation > Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) |
 <!---
 | N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
 --->
