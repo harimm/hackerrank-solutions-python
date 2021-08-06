@@ -41,4 +41,5 @@ Repository for storing solutions submitted for hackerrank programming problems
 | --- | ---- | ------------------- |
 | 1 | [New Year Chaos](./solutions/python/new-year-chaos.py) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
 | 2 | [Frequency Queries](./solutions/python/frequency-queries.py) | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) |
+| 3 | [Strange Counter](./solutions/python/strange-counter.py) | [Practice > Algorithms > Implementation > Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) |
 
