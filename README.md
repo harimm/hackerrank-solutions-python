@@ -28,6 +28,7 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 18 | [The Salesman](./solutions/python/the-salesman.py) | [All Contests > World CodeSprint 12 > The Salesman](https://www.hackerrank.com/contests/world-codesprint-12/challenges/the-salesman/problem) |
 | 19 | [Word Order](./solutions/python/word-order.py) | [Practice > Python > Collections > Word Order](https://www.hackerrank.com/challenges/word-order/problem) |
 | 20 | [Append and Delete](./solutions/python/append-and-delete.py) | [Practice > Algorithms > Implementation > Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) |
+| 21 | [Modified Kaprekar Numbers](./solutions/python/modified-kaprekar-numbers.py) | [Practice > Algorithms > Implementation > Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) |
 <!---
 | N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
 --->
