@@ -27,6 +27,7 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 17 | [Hash Tables: Ransom Note](./solutions/python/ransom-note.py) | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
 | 18 | [The Salesman](./solutions/python/the-salesman.py) | [All Contests > World CodeSprint 12 > The Salesman](https://www.hackerrank.com/contests/world-codesprint-12/challenges/the-salesman/problem) |
 | 19 | [Word Order](./solutions/python/word-order.py) | [Practice > Python > Collections > Word Order](https://www.hackerrank.com/challenges/word-order/problem) |
+| 20 | [Append and Delete](./solutions/python/append-and-delete.py) | [Practice > Algorithms > Implementation > Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) |
 <!---
 | N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
 --->
@@ -36,3 +37,5 @@ Repository for storing solutions submitted for hackerrank programming problems
 | No. | Name | HackerRank Question | 
 | --- | ---- | ------------------- |
 | 1 | [New Year Chaos](./solutions/python/new-year-chaos.py) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
+| 2 | [Frequency Queries](./solutions/python/frequency-queries.py) | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) |
+
