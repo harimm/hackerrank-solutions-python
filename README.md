@@ -32,7 +32,8 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 22  | [Minimum Distances](./solutions/python/minimum-distances.py)                                             | [Practice > Algorithms > Implementation > Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)                              |
 | 23  | [Fair Rations](./solutions/python/fair-rations.py)                                                       | [Practice > Algorithms > Implementation > Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)                                        |
 | 24  | [Sherlock and Anagrams](./solutions/python/sherlock-and-anagrams.py)                                     | [Practice > Algorithms > Strings > Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)                             |
-| 25  | [Bot Saves Princess](./solutions/python/save princess.py)                                                | [Dashboard > Artificial Intelligence > Bot Building > Bot saves princess](https://www.hackerrank.com/challenges/saveprincess/problem)                      |
+| 25  | [Bot Saves Princess](./solutions/python/save-princess.py)                                                | [Dashboard > Artificial Intelligence > Bot Building > Bot saves princess](https://www.hackerrank.com/challenges/saveprincess/problem)                      |
+| 26  | [Bot Saves Princess - 2](./solutions/python/save-princess-2.py)                                          | [Dashboard > Artificial Intelligence > Bot Building > Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2/problem)                 |
 <!---
 | N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
 --->
