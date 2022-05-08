@@ -32,17 +32,17 @@ Repository for storing solutions submitted for hackerrank programming problems
 | 22  | [Minimum Distances](./solutions/python/minimum-distances.py)                                             | [Practice > Algorithms > Implementation > Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)                              |
 | 23  | [Fair Rations](./solutions/python/fair-rations.py)                                                       | [Practice > Algorithms > Implementation > Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)                                        |
 | 24  | [Sherlock and Anagrams](./solutions/python/sherlock-and-anagrams.py)                                     | [Practice > Algorithms > Strings > Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)                             |
-| 24  | [Bot Saves Princess](./solutions/python/save princess.py)                                                | [Dashboard > Artificial Intelligence > Bot Building > Bot saves princess](https://www.hackerrank.com/challenges/saveprincess/problem)                      |
+| 25  | [Bot Saves Princess](./solutions/python/save princess.py)                                                | [Dashboard > Artificial Intelligence > Bot Building > Bot saves princess](https://www.hackerrank.com/challenges/saveprincess/problem)                      |
 <!---
 | N/A | [Programming Competition](./solutions/python/programming-competition.py) | [Unknown Question] |
 --->
 
 ### IN PROGRESS
 
-| No. | Name | HackerRank Question | 
-| --- | ---- | ------------------- |
-| 1 | [New Year Chaos](./solutions/python/new-year-chaos.py) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
-| 2 | [Frequency Queries](./solutions/python/frequency-queries.py) | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) |
-| 3 | [Strange Counter](./solutions/python/strange-counter.py) | [Practice > Algorithms > Implementation > Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) |
-| 4 | [Count Triplets](.solutions/python/count-triplets.py) | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) |
+| No. | Name                                                         | HackerRank Question                                                                                                              | 
+|-----|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [New Year Chaos](./solutions/python/new-year-chaos.py)       | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
+| 2   | [Frequency Queries](./solutions/python/frequency-queries.py) | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem)                                             |
+| 3   | [Strange Counter](./solutions/python/strange-counter.py)     | [Practice > Algorithms > Implementation > Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)           |
+| 4   | [Count Triplets](.solutions/python/count-triplets.py)        | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem)                                                 |
 
